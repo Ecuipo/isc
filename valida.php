@@ -4,7 +4,7 @@
   $password2=$_REQUEST['password'];
 
 
-  $usuario2 = base64_decode($usuario);
+$usuario2 = base64_decode($usuario);
 $password2= base64_decode($password);
 
 
